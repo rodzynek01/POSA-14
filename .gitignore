@@ -80,3 +80,6 @@ proguard/
 # Temp files for KDE and other Editor's 
 *~
 
+*.name
+*.xml
+*.iml
