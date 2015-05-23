@@ -11,6 +11,9 @@ import java.util.concurrent.CyclicBarrier;
  */
 class BuggyLongTest
 {
+
+    private final String test = "ss";
+
     /**
      * Number of iterations to run the test.
      */
