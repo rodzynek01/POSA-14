@@ -12,7 +12,7 @@ import java.util.concurrent.CyclicBarrier;
 class BuggyLongTest
 {
 
-    private final String test = "ss";
+    private final String test = "ssdds";
 
     /**
      * Number of iterations to run the test.
